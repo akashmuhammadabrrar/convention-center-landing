@@ -35,6 +35,5 @@ footer {
   .media-qur,
   .media-qus {
     flex-wrap: wrap;
-    background-color: tomato;
   }
 }
